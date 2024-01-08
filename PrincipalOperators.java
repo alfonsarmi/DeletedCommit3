@@ -59,6 +59,8 @@ public class PrincipalOperators {
 	    
 	    x *= 3;
 	    System.out.println(x);
+		System.out.println(x);
+		System.out.println(x);
 	    
 	    double y = 5;
 	    y /= 3;
